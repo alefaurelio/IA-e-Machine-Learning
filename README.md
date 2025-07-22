@@ -1,1 +1,1 @@
-Esse repositório tem como objetivo compartilhar arquivos referente ao meu aprendizado de IA e Machine Learning, desde atividdes a trabalhos acadêmicos.
+Projeto proposto pela DIO como parte do aprendizado do bootcamp de Machine Learning. O objetivo do projeto era aplicar o método de Transfer Learning em uma rede de Deep Learning na linguagem Python por meio do Colab para classificação de imagens.
